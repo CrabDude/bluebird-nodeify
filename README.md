@@ -4,9 +4,9 @@ Use `bluebird`'s `promise.nodeify(callback)` method as a function to convert non
 
 ## Installation
 
-  Server:
-
-    $ npm install bluebird-nodeify
+```bash
+$ npm install bluebird-nodeify
+```
 
 ## Usage
 
