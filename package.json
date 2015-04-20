@@ -1,0 +1,23 @@
+{
+  "name": "bluebird-nodeify",
+  "version": "1.0.0",
+  "description": "Use bluebird's nodeify to convert promises to node style callbacks.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crabdude/bluebird-nodeify.git"
+  },
+  "keywords": [
+    "promise",
+    "then",
+    "nodeify",
+    "callback"
+  ],
+  "author": "Adam Crabtree",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.24"
+  }
+}
