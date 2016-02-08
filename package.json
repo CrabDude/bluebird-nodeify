@@ -1,6 +1,6 @@
 {
   "name": "bluebird-nodeify",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Use bluebird's nodeify to convert promises to node style callbacks.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
