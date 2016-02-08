@@ -17,7 +17,5 @@
   ],
   "author": "Adam Crabtree",
   "license": "MIT",
-  "dependencies": {
-    "bluebird": "^2.9.24"
-  }
+  "dependencies": {}
 }
