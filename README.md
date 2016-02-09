@@ -1,3 +1,7 @@
+# MOVED to [`ascallback`](https://github.com/CrabDude/asCallback)
+
+---
+
 # Nodeify
 
 Use `bluebird`'s `promise.nodeify(callback)` method as a function to convert non-bluebird promises to node style callbacks.
